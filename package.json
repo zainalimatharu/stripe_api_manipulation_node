@@ -1,0 +1,21 @@
+{
+  "name": "stripe-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zain Ali",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.4",
+    "express": "^4.17.1",
+    "node-cron": "^2.0.3",
+    "nodemailer": "^6.3.1",
+    "stripe": "^7.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
